@@ -32,6 +32,7 @@ Let's get started!
 10. **Apply .button Styles:** Apply the styles for the .button selector to the Play Again button and each choice button.
 
 # Solution 
-# https://codepen.io/nickefr-the-flexboxer/pen/xxNxVRp
 
+# https://codepen.io/nickefr-the-flexboxer/pen/xxNxVRp
+![react br](https://github.com/nickefr/ReactGame/assets/73330890/1b43b6da-ee45-4643-85f7-43bf113777bf)
 
