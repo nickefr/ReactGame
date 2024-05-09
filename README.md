@@ -33,5 +33,5 @@ Let's get started!
 
 # Solution 
 # https://codepen.io/nickefr-the-flexboxer/pen/xxNxVRp
-![reactsolution](https://github.com/nickefr/ReactGame/assets/73330890/9f1bbc62-f4bd-4d53-b9d4-09956f15e741)
+
 
